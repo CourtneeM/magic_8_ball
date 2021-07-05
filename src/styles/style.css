@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#app-container {
+  margin-top: 60px;
+  text-align: center;
+}
+
+#title {
+  margin-bottom: 80px;
+}
+
+#main-text {
+  margin-bottom: 80px;
+}
+
+#ask-btn {
+  padding: 10px 40px;
+  font-size: 1rem;
+  font-weight: 600;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */
